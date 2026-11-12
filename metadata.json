@@ -1,0 +1,11 @@
+{
+  "name": "Audio Sync Hub",
+  "description": "Voice recorder, Google Drive & rclone sync manager, contacts & recipients directory, Termux command macros, and AI audio analyzer.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
